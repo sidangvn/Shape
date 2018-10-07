@@ -1,4 +1,4 @@
-# Shape
+# Shape - 3
 
 Class Exercise:
 Shape class (40 pts) – Shape.java
