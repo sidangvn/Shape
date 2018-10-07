@@ -9,7 +9,11 @@ Class Exercise
 
  
 
-Write a class called Shape that contains instance data that represents the name and number of sides of the shape. Define a constructor to initialize these values. Include mutator(setter) methods – with the this reference – for the instance data, and a toString method that returns a the shape data. Create a static variable to keep track of the number of shapes, and a static method to return the number of shapes entered. Create a driver class called ShapeTest, whose main method instantiates the objects and updates several Shape objects by prompting the user for the information.
+Write a class called Shape that contains instance data that represents the name and number of sides of the shape. 
+Define a constructor to initialize these values. Include mutator(setter) methods – with the this reference – for the instance data, 
+and a toString method that returns a the shape data. Create a static variable to keep track of the number of shapes, 
+and a static method to return the number of shapes entered. Create a driver class called ShapeTest, 
+whose main method instantiates the objects and updates several Shape objects by prompting the user for the information.
 
  
 
@@ -35,7 +39,7 @@ Local variables to store information
 To reference the static variable (with the updated number of shapes) in the driver
  
 
-Here is some sample output:
+#Here is some sample output:
 
  
 
