@@ -44,29 +44,31 @@ To reference the static variable (with the updated number of shapes) in the driv
  
 
 Enter info on 3 shapes:
+
 Enter the name of the shape: Square
+
 Enter the number of sides: 4
+
 Enter the name of the shape: Hexagon
+
 Enter the number of sides: 6
+
 Enter the name of the shape: Octagon
+
 Enter the number of sides: 8
 
 
 Here is the info you entered for the 3 shapes: 
+
 Shape: Square
+
 No. of sides:4
 
 Shape: Hexagon
+
 No. of sides:6
 
 Shape: Octagon
+
 No. of sides:8
 
-Submission
- Submitted!
-Apr 16, 2017 at 10:45pm
-Submission Details
-Download sidang.7z
-Grade: 60 (60 pts possible)
-Graded Anonymously: no
-Comments:
